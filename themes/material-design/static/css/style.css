@@ -46,3 +46,10 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
+
+iframe {
+  overflow:hidden;
+  overflow-x:hidden;
+  overflow-y:hidden;
+}

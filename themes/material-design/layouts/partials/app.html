@@ -1,0 +1,11 @@
+{{ $baseurl := .Site.BaseURL }}
+<div class="row">
+  {{ range where .Data.Pages "Type"  "apps" }}
+    <div class="card-panel hoverable light-green lighten-4">
+      <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+
+      <p>{{ .Summary }}</p>
+
+    </div>
+  {{ end }}
+</div>

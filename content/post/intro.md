@@ -11,7 +11,7 @@ weight = 1
 Corvette 2nd Floor Austin
 
 ##### Date and Time
-Date: **April 26 , 2016**
+Date: **May 9 , 2016**
 
 Time: **9:30AM—4:30PM**
 
@@ -21,22 +21,27 @@ Click to get the Agenda, Prerequisites and Setup for the workshop.
 
 ##### Agenda
 
-        Broad Agenda (We will have breaks in between sessions)
+Broad Agenda (We will have breaks in between sessions)
 
-        9:30 - 10:30: GM's Current and Desired Model of Software Delivery (3 Use Cases) -- Mano and GM Team
+    9:30 - 10:30   Walkthrough the Push/Bind/Scale
 
-        10:30 - 11:30: Pivotal (and VMWare)'s approach to GM's desired state (Fulfilment of Use Cases)- Pivotal
+    10:30 - 11:00  Setting up Cloud Foundry / CLI and Pre-Requisites on Developer laptops
 
-        == LUNCH ==
+    11:00 - 12:30  Hands on Push/Bind/Scale/Blue Green Deployment
 
-        12:30 - 2:00: Walkthrough (and Hands on)  Push/Bind/Scale/Blue Green Deployment of Spring boot apps provided by Pivotal Cloud Foundry hosted by Pivotal
+    ==== LUNCH ====
 
-        2:00 - 3:00: Build Pipelines for continuous deployment, Bosh/Ops Manager walk through and discussion on CI/CD.
+    1:30-4:00 : GM App Classification and hands-on push to platform
 
-        3:30 - 4:30: Lessons learned and Scoping for POC - Apps, Infrastructure vSphere, Sizing, Timelines and Project Plan
+    4:00 and beyond : Open discussion on various topics Docker, K8, Monitoring on Platform
 
-        4:30 and beyond : Open discussion on various topics - Spring Cloud Services, Security, APM, K8, Docker
-                          Wrap Up, Q&A, Feedback
+
+
+Goals and Outcomes:
+
+    Walk through App Classification and Decision tree​ for Pivotal Cloud Foundry​
+    Hands on experience doing rapid application deployment, consumption of services and blue-green deployments
+
 
 
 ##### Prerequisites
@@ -76,13 +81,17 @@ Click to get the Agenda, Prerequisites and Setup for the workshop.
           MongoDB
           Neo4J
           Redis
+          GitLab
+          JFrog Artifactory
+          Cloud Bees Jenkins
+          
 
 
 ##### Speakers
 
     Rajesh Jain, Platform Architect
     Marcelo Borges, Platform Architect
-    Edward Mikuszewski, Platform Architect
+    Chris Johnson, Platform Architect
 
 #### Presentation
 
