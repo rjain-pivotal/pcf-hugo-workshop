@@ -1,4 +1,4 @@
-baseurl = "http://pcf-hugo-workshop.cfapps.io/"
+baseurl = "http://pcf-falabella-workshop.cfapps.io/"
 languageCode = "en-us"
 title = "Cloud Foundry Workshop"
 
@@ -30,7 +30,7 @@ copyright = "© Copyright 2016 Pivotal Software, Inc. All Rights Reserved. Sitem
 
     description = "Pivotal Cloud Foundry" # optional
     twitter = "pivotal" # optional
-    customer = "gm"
+    customer = "falabella"
     # headerCover = "images/headerCover.png" # optional
     # footerCover = "images/footerCover.png" # optional
     googleAnalyticsUserID = "UA-75133856-1" # optional

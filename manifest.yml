@@ -1,9 +1,9 @@
 ---
 applications:
-- name: pcf-hugo-workshop
+- name: pcf-falabella-workshop
   memory: 64M
   instances: 1
-  host: pcf-hugo-workshop
+  host: pcf-falabella-workshop
   domain: cfapps.io
   path: public
   buildpack: staticfile_buildpack
